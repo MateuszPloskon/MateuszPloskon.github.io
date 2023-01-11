@@ -6,6 +6,7 @@
 
 Generated on Tue Jan 10 23:49:52 PST 2023
 
+
 |title|arxiv|inspire (dated)|journal|cited|
 |:---|:--- |:--- |:--- |:--- |
 |Hot and Cold QCD White Paper from ALICE-USA: Input for 2023 U.S. Long Range Plan for Nuclear Science|[2212.00512](https://arxiv.org/abs/2212.00512)|[2606481](https://inspirehep.net/literature/2606481) (2022-12-02)|[n/a](https://inspirehep.net/literature/2606481)|0|
