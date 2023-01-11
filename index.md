@@ -4,7 +4,8 @@
 
 # Selected Publications
 
-Generated on Tue Jan 10 23:20:58 PST 2023
+Generated on Tue Jan 10 23:49:52 PST 2023
+
 |title|arxiv|inspire (dated)|journal|cited|
 |:---|:--- |:--- |:--- |:--- |
 |Hot and Cold QCD White Paper from ALICE-USA: Input for 2023 U.S. Long Range Plan for Nuclear Science|[2212.00512](https://arxiv.org/abs/2212.00512)|[2606481](https://inspirehep.net/literature/2606481) (2022-12-02)|[n/a](https://inspirehep.net/literature/2606481)|0|
@@ -31,7 +32,7 @@ Generated on Tue Jan 10 23:20:58 PST 2023
 |Novel subjet observables for jet quenching in heavy-ion collisions|[1710.07607](https://arxiv.org/abs/1710.07607)|[1631789](https://inspirehep.net/literature/1631789) (2017-10-23)|[Eur.Phys.J.C 78 529 p.529 (2018)](https://doi.org/10.1140/epjc/s10052-018-5999-2)|32|
 |On the upper bound of entropy production rate from particle multiplicity in heavy ion collisions|[1702.01103](https://arxiv.org/abs/1702.01103)|[1512114](https://inspirehep.net/literature/1512114) (2017-02-06)|[n/a](https://inspirehep.net/literature/1512114)|2|
 |Measurement of the production of high-$p_{\rm T}$ electrons from heavy-flavour hadron decays in Pb-Pb collisions at $\mathbf{\sqrt{\it s_{\rm{NN}}}}$ = 2.76 TeV|[1609.07104](https://arxiv.org/abs/1609.07104)|[1487727](https://inspirehep.net/literature/1487727) (2016-09-23)|[Phys.Lett.B 771 p.467-481 (2017)](https://doi.org/10.1016/j.physletb.2017.05.060)|44|
-|Heavy ions at the Future Circular Collider|[1605.01389](https://arxiv.org/abs/1605.01389)|[1455787](https://inspirehep.net/literature/1455787) (2016-05-05)|[n/a](https://doi.org/10.23731/CYRM-2017-003.635)|73|
+|Heavy ions at the Future Circular Collider|[1605.01389](https://arxiv.org/abs/1605.01389)|[1455787](https://inspirehep.net/literature/1455787) (2016-05-05)|[CERN Yellow Rep. (2017)](https://doi.org/10.23731/CYRM-2017-003.635)|73|
 |Sub-jet structure as a discriminating quenching probe|[1512.09255](https://arxiv.org/abs/1512.09255)|[1411839](https://inspirehep.net/literature/1411839) (2016-01-01)|[Nucl.Phys.A 956 p.597-600 (2016)](https://doi.org/10.1016/j.nuclphysa.2016.02.028)|6|
 |The Hot QCD White Paper: Exploring the Phases of QCD at RHIC and the LHC|[1502.02730](https://arxiv.org/abs/1502.02730)|[1343793](https://inspirehep.net/literature/1343793) (2015-02-11)|[n/a](https://inspirehep.net/literature/1343793)|112|
 |Measurement of the inclusive differential jet cross section in $pp$ collisions at $\sqrt{s} = 2.76$ TeV|[1301.3475](https://arxiv.org/abs/1301.3475)|[1210881](https://inspirehep.net/literature/1210881) (2013-01-15)|[Phys.Lett.B 722 p.262-272 (2013)](https://doi.org/10.1016/j.physletb.2013.04.026)|123|
