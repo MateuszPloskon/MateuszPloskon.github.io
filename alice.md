@@ -1,4 +1,4 @@
-Generated on Wed Jan 11 02:05:45 PST 2023
+Generated on Wed Jan 11 02:36:39 PST 2023
 
 |title|arxiv|inspire (dated)|journal|cited|
 |:---|:--- |:--- |:--- |:--- |
@@ -303,6 +303,7 @@ Generated on Wed Jan 11 02:05:45 PST 2023
 |One-dimensional pion, kaon, and proton femtoscopy in Pb-Pb collisions at $\sqrt{s_{\rm {NN}}}$ =2.76 TeV|[1506.07884](https://arxiv.org/abs/1506.07884)|[1379971](https://inspirehep.net/literature/1379971) (2015-06-29)|[Phys.Rev.C 92 054908 (2015)](https://doi.org/10.1103/PhysRevC.92.054908)|73|
 |Search for weakly decaying $\overline{\Lambda\mathrm{n}}$ and $\Lambda\Lambda $ exotic bound states in central Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 2.76 TeV|[1506.07499](https://arxiv.org/abs/1506.07499)|[1377753](https://inspirehep.net/literature/1377753) (2015-06-25)|[Phys.Lett.B 752 p.267-277 (2016)](https://doi.org/10.1016/j.physletb.2015.11.048)|46|
 |Centrality dependence of the nuclear modification factor of charged pions, kaons, and protons in Pb-Pb collisions at $\sqrt{s_{\rm NN}}=2.76$ TeV|[1506.07287](https://arxiv.org/abs/1506.07287)|[1377750](https://inspirehep.net/literature/1377750) (2015-06-25)|[Phys.Rev.C 93 034913 (2016)](https://doi.org/10.1103/PhysRevC.93.034913)|152|
+|Centrality dependence of high-p$_{T}$ D meson suppression in Pb-Pb collisions at $ \sqrt{s_{\mathrm{N}\mathrm{N}}}=2.76 $ TeV|[1506.06604](https://arxiv.org/abs/1506.06604)|[1377363](https://inspirehep.net/literature/1377363) (2015-06-23)|[JHEP 11 205 (2015)](https://doi.org/10.1007/JHEP11(2015)205)|90|
 |Measurement of jet quenching with semi-inclusive hadron-jet distributions in central Pb-Pb collisions at $ \sqrt{s_{\mathrm{NN}}}=2.76 $ TeV|[1506.03984](https://arxiv.org/abs/1506.03984)|[1376027](https://inspirehep.net/literature/1376027) (2015-06-15)|[JHEP 09 170 p.170 (2015)](https://doi.org/10.1007/JHEP09(2015)170)|145|
 |Measurement of charm and beauty production at central rapidity versus charged-particle multiplicity in proton-proton collisions at $ \sqrt{s}=7 $ TeV|[1505.00664](https://arxiv.org/abs/1505.00664)|[1366028](https://inspirehep.net/literature/1366028) (2015-05-05)|[JHEP 09 148 p.148 (2015)](https://doi.org/10.1007/JHEP09(2015)148)|133|
 |Inclusive, prompt and non-prompt J/$\psi$ production at mid-rapidity in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 2.76 TeV|[1504.07151](https://arxiv.org/abs/1504.07151)|[1364887](https://inspirehep.net/literature/1364887) (2015-04-28)|[JHEP 07 051 p.051 (2015)](https://doi.org/10.1007/JHEP07(2015)051)|108|
