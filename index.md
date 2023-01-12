@@ -6,7 +6,7 @@
 
 # Selected Publications
 
-Generated on Thu Jan 12 00:55:14 PST 2023
+Generated on Thu Jan 12 01:02:55 PST 2023
 
 |title|arxiv|inspire (dated)|journal|cited|
 |:---|:--- |:--- |:--- |:--- |
@@ -22,7 +22,7 @@ Generated on Thu Jan 12 00:55:14 PST 2023
 |The information content of jet quenching and machine learning assisted observable design|[2111.14589](https://arxiv.org/abs/2111.14589)|[1978762](https://inspirehep.net/literature/1978762) (2021-11-30)|[JHEP 10 011 (2022)](https://doi.org/10.1007/JHEP10(2022)011)|4|
 |Measurement of the groomed jet radius and momentum splitting fraction in pp and Pb$-$Pb collisions at $\sqrt{s_{NN}} = 5.02$ TeV|[2107.12984](https://arxiv.org/abs/2107.12984)|[1893479](https://inspirehep.net/literature/1893479) (2021-07-28)|[Phys.Rev.Lett. 128 102001 (2022)](https://doi.org/10.1103/PhysRevLett.128.102001)|31|
 |Measurements of the groomed and ungroomed jet angularities in pp collisions at $ \sqrt{s} $ = 5.02 TeV|[2107.11303](https://arxiv.org/abs/2107.11303)|[1891385](https://inspirehep.net/literature/1891385) (2021-07-26)|[JHEP 05 061 (2022)](https://doi.org/10.1007/JHEP05(2022)061)|29|
-|Quantum simulation of nonequilibrium dynamics and thermalization in the Schwinger model|[2106.08394](https://arxiv.org/abs/2106.08394)|[1868802](https://inspirehep.net/literature/1868802) (2021-06-17)|[Phys.Rev.D 106 054508 (2022)](https://doi.org/10.1103/PhysRevD.106.054508)|27|
+|Quantum simulation of nonequilibrium dynamics and thermalization in the Schwinger model|[2106.08394](https://arxiv.org/abs/2106.08394)|[1868802](https://inspirehep.net/literature/1868802) (2021-06-17)|[Phys.Rev.D 106 054508 (2022)](https://doi.org/10.1103/PhysRevD.106.054508)|26|
 |Production of $\Lambda$ and $K^0_s$ in jets in p–Pb collisions at $\sqrt {s_{NN}}$=5.02 TeV and pp collisions at $\sqrt {s}$=7 TeV|[2105.04890](https://arxiv.org/abs/2105.04890)|[2048607](https://inspirehep.net/literature/2048607) (2021-05-12)|[Phys.Lett.B 827 136984 (2022)](https://doi.org/10.1016/j.physletb.2022.136984)|13|
 |Explainable machine learning of the underlying physics of high-energy particle collisions|[2012.06582](https://arxiv.org/abs/2012.06582)|[1836332](https://inspirehep.net/literature/1836332) (2020-12-15)|[Phys.Lett.B 829 137055 (2022)](https://doi.org/10.1016/j.physletb.2022.137055)|24|
 |Quantum simulation of open quantum systems in heavy-ion collisions|[2010.03571](https://arxiv.org/abs/2010.03571)|[1821937](https://inspirehep.net/literature/1821937) (2020-10-09)|[Phys.Rev.D 104 051501 (2021)](https://doi.org/10.1103/PhysRevD.104.L051501)|28|
@@ -30,7 +30,6 @@ Generated on Thu Jan 12 00:55:14 PST 2023
 |Identifying groomed jet splittings in heavy-ion collisions|[2006.01812](https://arxiv.org/abs/2006.01812)|[1798902](https://inspirehep.net/literature/1798902) (2020-06-03)|[Phys.Rev.C 102 044913 (2020)](https://doi.org/10.1103/PhysRevC.102.044913)|28|
 |A next-generation LHC heavy-ion experiment|[1902.01211](https://arxiv.org/abs/1902.01211)|[1718329](https://inspirehep.net/literature/1718329) (2019-02-05)|[n/a](https://inspirehep.net/literature/1718329)|41|
 |FCC Physics Opportunities|[n/a](https://arxiv.org/abs/n/a)|[1713706](https://inspirehep.net/literature/1713706) (2019-01-15)|[Eur.Phys.J.C 79 474 (2019)](https://doi.org/10.1140/epjc/s10052-019-6904-3)|597|
-|Report from Working Group 5|[1812.06772](https://arxiv.org/abs/1812.06772)|[1709331](https://inspirehep.net/literature/1709331) (2018-12-18)|[CERN Yellow Rep.Monogr. 7 p.1159-1410 (2019)](https://doi.org/10.23731/CYRM-2019-007.1159)|266|
 |Report from Working Group 5|[1812.06772](https://arxiv.org/abs/1812.06772)|[1709331](https://inspirehep.net/literature/1709331) (2018-12-18)|[CERN Yellow Rep.Monogr. 7 p.1159-1410 (2019)](https://doi.org/10.23731/CYRM-2019-007.1159)|266|
 |Searching for the dead cone effects with iterative declustering of heavy-flavor jets|[1812.00102](https://arxiv.org/abs/1812.00102)|[1706189](https://inspirehep.net/literature/1706189) (2018-12-04)|[Phys.Rev.D 99 074027 (2019)](https://doi.org/10.1103/PhysRevD.99.074027)|28|
 |Heavy-ion collisions - hot QCD in a lab|[1808.01411](https://arxiv.org/abs/1808.01411)|[1685075](https://inspirehep.net/literature/1685075) (2018-08-07)|[n/a](https://inspirehep.net/literature/1685075)|6|
@@ -50,7 +49,7 @@ Generated on Thu Jan 12 00:55:14 PST 2023
 |Strangeness Enhancement in Cu+Cu and Au+Au Collisions at $\sqrt{s_{NN}} = 200$ GeV|[1107.2955](https://arxiv.org/abs/1107.2955)|[918779](https://inspirehep.net/literature/918779) (2011-07-17)|[Phys.Rev.Lett. 108 072301 (2012)](https://doi.org/10.1103/PhysRevLett.108.072301)|133|
 |Studies of di-jet survival and surface emission bias in Au+Au collisions via angular correlations with respect to back-to-back leading hadrons|[1102.2669](https://arxiv.org/abs/1102.2669)|[889553](https://inspirehep.net/literature/889553) (2011-02-14)|[Phys.Rev.C 83 061901 (2011)](https://doi.org/10.1103/PhysRevC.83.061901)|16|
 |Measurements of dihadron correlations relative to the event plane in Au+Au collisions at $\sqrt{s_{NN}}=200$ GeV|[1010.0690](https://arxiv.org/abs/1010.0690)|[872067](https://inspirehep.net/literature/872067) (2010-10-05)|[Chin.Phys.C 45 044002 (2021)](https://doi.org/10.1088/1674-1137/abdf3f)|80|
-|An Experimental Exploration of the QCD Phase Diagram: The Search for the Critical Point and the Onset of De-confinement|[1007.2613](https://arxiv.org/abs/1007.2613)|[861351](https://inspirehep.net/literature/861351) (2010-07-15)|[n/a](https://inspirehep.net/literature/861351)|336|
+|An Experimental Exploration of the QCD Phase Diagram: The Search for the Critical Point and the Onset of De-confinement|[1007.2613](https://arxiv.org/abs/1007.2613)|[861351](https://inspirehep.net/literature/861351) (2010-07-15)|[n/a](https://inspirehep.net/literature/861351)|337|
 |$K^{*0}$ production in Cu+Cu and Au+Au collisions at $\sqrt{s_NN} = 62.4$ GeV and 200 GeV|[1006.1961](https://arxiv.org/abs/1006.1961)|[857694](https://inspirehep.net/literature/857694) (2010-06-10)|[Phys.Rev.C 84 034909 (2011)](https://doi.org/10.1103/PhysRevC.84.034909)|76|
 |Higher Moments of Net-proton Multiplicity Distributions at RHIC|[1004.4959](https://arxiv.org/abs/1004.4959)|[853304](https://inspirehep.net/literature/853304) (2010-04-28)|[Phys.Rev.Lett. 105 022302 (2010)](https://doi.org/10.1103/PhysRevLett.105.022302)|379|
 |Azimuthal di-hadron correlations in d+Au and Au+Au collisions at $\sqrt{s_{NN}}=200$ GeV from STAR|[1004.2377](https://arxiv.org/abs/1004.2377)|[851937](https://inspirehep.net/literature/851937) (2010-04-14)|[Phys.Rev.C 82 024912 (2010)](https://doi.org/10.1103/PhysRevC.82.024912)|90|
