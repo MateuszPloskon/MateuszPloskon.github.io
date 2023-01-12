@@ -1,4 +1,5 @@
-Generated on Wed Jan 11 23:29:36 PST 2023
+# ALICE Collaboration Publications
+Generated on Thu Jan 12 00:23:36 PST 2023
 
 |group|system|title|arxiv|inspire (dated)|journal|cited|
 |:--- |:--- |:--- |:--- |:--- |:--- |
