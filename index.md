@@ -2,7 +2,7 @@
 
 # MP in inspirehep.net
 
-<https://inspirehep.net/authors/1042179?ui-citation-summary=true>
+[Link to INSPIRE](<https://inspirehep.net/authors/1042179?ui-citation-summary=true>)
 
 # Selected Publications
 
