@@ -1,11 +1,7 @@
-Generated on Wed Jan 11 16:38:52 PST 2023
+Generated on Wed Jan 11 16:44:37 PST 2023
 
 |title|arxiv|inspire (dated)|journal|cited|
 |:---|:--- |:--- |:--- |:--- |
-[e] got incomplete read from https://inspirehep.net/api/literature/1733683?format=json
-    trying one more time...
-[e] got incomplete read from https://inspirehep.net/api/literature/1303903?format=json
-    trying one more time...
 |Azimuthal anisotropy of jet particles in p-Pb and Pb-Pb collisions at $\sqrt{s_{\rm NN}}$ = 5.02 TeV|[2212.12609](https://arxiv.org/abs/2212.12609)|[2618175](https://inspirehep.net/literature/2618175) (2022-12-27)|[n/a](https://inspirehep.net/literature/2618175)|0|
 |First measurement of prompt and non-prompt ${\rm D^{*+}}$ vector meson spin alignment in pp collisions at $\sqrt{s} = 13$ TeV|[2212.06588](https://arxiv.org/abs/2212.06588)|[2613835](https://inspirehep.net/literature/2613835) (2022-12-14)|[n/a](https://inspirehep.net/literature/2613835)|0|
 |Measurement of (anti)nuclei production in p-Pb collisions at $\sqrt{s_{\rm NN}} = 8.16$ TeV|[2212.04777](https://arxiv.org/abs/2212.04777)|[2612635](https://inspirehep.net/literature/2612635) (2022-12-12)|[n/a](https://inspirehep.net/literature/2612635)|0|
